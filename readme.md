@@ -14,6 +14,7 @@ In no particular order. Except the whole "grouped by state" thing.
 * Stafford Lake, Novato
 * Golden Gate Park, San Francisco
 * Bijou Community Park, South Lake Tahoe
+* Ryan Ranch, Monterey
 
 ## Hawaii
 * Hilo Coffee Mill, Mt. View
