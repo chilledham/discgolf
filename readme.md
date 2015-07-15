@@ -9,7 +9,7 @@ In no particular order. Except the whole "grouped by state" thing.
 * Black Mouse, Felton
 * Aptos HS, Aptos
 * Pinto Lake, Watsonville
-* Anderson Valley Brewing Company, Booneville
+* Anderson Valley Brewing Company, Boonville
 * Mendocino HS, Mendocino
 * Stafford Lake, Novato
 * Golden Gate Park, San Francisco
