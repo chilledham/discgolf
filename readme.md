@@ -17,6 +17,7 @@ In no particular order. Except the whole "grouped by state" thing.
 * Ryan Ranch, Monterey
 * Low Gap Park, Ukiah
 * Villa Maria, Cupertino
+* Kelley Park, San Jose
 
 ## Hawaii
 * Hilo Coffee Mill, Mt. View
