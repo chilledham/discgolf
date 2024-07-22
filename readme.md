@@ -18,6 +18,7 @@ In no particular order. Except the whole "grouped by state" thing.
 * Low Gap Park, Ukiah
 * Villa Maria, Cupertino
 * Kelley Park, San Jose
+* [Mad River Pump Station #4, Arcata](https://udisc.com/courses/mad-river-pump-station-4-uTWl)
 
 ## Hawaii
 * Hilo Coffee Mill, Mt. View
@@ -30,3 +31,6 @@ In no particular order. Except the whole "grouped by state" thing.
 
 ## Nevada
 * Zephyr Cove Park, Zephyr Cove
+
+## Oregon
+* [Pier Park, Portland](https://udisc.com/courses/pier-park-GN0G)
