@@ -22,7 +22,7 @@ In no particular order. Except the whole "grouped by state" thing.
 
 ## Hawaii
 * Hilo Coffee Mill, Mt. View
-* [Lydgate Park](https://udisc.com/courses/lydgate-park-RlOB), Wailua
+* [Lydgate Park, Wailua](https://udisc.com/courses/lydgate-park-RlOB)
 
 ## Colorado
 * Bird's Nest, Arvada
